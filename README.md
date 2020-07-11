@@ -5,3 +5,4 @@ Simple API Developed by ASP.Net Core
 - DataContext
 - Use SQL Server as Database
 - LINQ
+- Swagger
